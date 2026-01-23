@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TE23B_Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05d53dc9685b7f10c288b167983f5e3b4f5d6133")]
 [assembly: System.Reflection.AssemblyProductAttribute("TE23B_Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TE23B_Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

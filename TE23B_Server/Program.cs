@@ -14,8 +14,21 @@ app.MapGet("/",Hello);
 app.MapGet("/calin", Calin);
 app.MapGet("/elev", GimmeElev);
 app.MapGet("/elev/{n}", GimmeOneElev);
+app.MapPost("/elev/new", AddElev);
+// 10.151.168.133
+app.Urls.Add("http://localhost:5111/");
+app.Urls.Add("http://*:5111");
+
 
 app.Run();
+
+
+IResult AddElev(Elev e)
+{
+    elever.Add(e);
+
+    return Results.Ok();
+}
 
 
 List<Elev> GimmeElev()

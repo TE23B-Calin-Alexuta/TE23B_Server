@@ -25,3 +25,4 @@ C:\Users\calin.alexuta\Documents\programering2\TE23B_Server\TE23B_Server\obj\Deb
 C:\Users\calin.alexuta\Documents\programering2\TE23B_Server\TE23B_Server\obj\Debug\net9.0\TE23B_Server.pdb
 C:\Users\calin.alexuta\Documents\programering2\TE23B_Server\TE23B_Server\obj\Debug\net9.0\TE23B_Server.genruntimeconfig.cache
 C:\Users\calin.alexuta\Documents\programering2\TE23B_Server\TE23B_Server\obj\Debug\net9.0\ref\TE23B_Server.dll
+C:\Users\calin.alexuta\Documents\programering2\TE23B_Server\TE23B_Server\obj\Debug\net9.0\TE23B_Server.sourcelink.json
